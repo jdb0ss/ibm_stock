@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "IMB_Stock_Chart"
